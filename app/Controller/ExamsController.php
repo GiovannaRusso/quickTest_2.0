@@ -1,4 +1,4 @@
-<?
+<?php
 class ExamsController extends AppController {
     public $helpers = array('Html', 'Form');
     
