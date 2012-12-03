@@ -1,4 +1,6 @@
+<?
 class User extends AppModel {
 }
+?>
 
 

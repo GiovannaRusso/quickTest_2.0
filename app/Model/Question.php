@@ -1,4 +1,6 @@
+<?
 class Question extends AppModel {
 }
+?>
 
 

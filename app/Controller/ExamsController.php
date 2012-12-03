@@ -1,3 +1,4 @@
+<?
 class ExamsController extends AppController {
     public $helpers = array('Html', 'Form');
     
@@ -6,3 +7,4 @@ class ExamsController extends AppController {
     }
     
 }
+?>

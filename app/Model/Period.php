@@ -1,4 +1,6 @@
+<?
 class Period extends AppModel {
 }
+?>
 
 

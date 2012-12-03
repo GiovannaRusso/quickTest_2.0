@@ -1,3 +1,5 @@
+<?
 class UserType extends AppModel {
 }
+?>
 

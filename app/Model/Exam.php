@@ -1,4 +1,5 @@
+<?
 class Exam extends AppModel {
 }
-
+?>
 
