@@ -1,0 +1,236 @@
+2012-12-03 01:13:28 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 01:26:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:27:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:19 Error: [MissingViewException] View file "/var/www/quickTest/app/View/Pages/como_comprar.ctp" is missing.
+#0 /var/www/quickTest/lib/Cake/View/View.php(473): View->_getViewFileName('como_comprar')
+#1 /var/www/quickTest/lib/Cake/Controller/Controller.php(956): View->render('como_comprar', NULL)
+#2 /var/www/quickTest/app/Controller/PagesController.php(73): Controller->render('como_comprar')
+#3 [internal function]: PagesController->display('como_comprar')
+#4 /var/www/quickTest/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/quickTest/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/quickTest/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-12-03 09:28:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:43 Error: [MissingViewException] View file "/var/www/quickTest/app/View/Pages/registro.ctp" is missing.
+#0 /var/www/quickTest/lib/Cake/View/View.php(473): View->_getViewFileName('registro')
+#1 /var/www/quickTest/lib/Cake/Controller/Controller.php(956): View->render('registro', NULL)
+#2 /var/www/quickTest/app/Controller/PagesController.php(73): Controller->render('registro')
+#3 [internal function]: PagesController->display('registro')
+#4 /var/www/quickTest/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/quickTest/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/quickTest/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:28:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:29:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:31:29 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:31:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:31:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:31:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:31:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:31:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:45 Error: [MissingControllerException] Controller class ExamsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 09:32:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ExamsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class ExamsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-12-03 10:39:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/quickTest/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
