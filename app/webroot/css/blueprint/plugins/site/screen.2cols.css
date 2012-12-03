@@ -1,0 +1,33 @@
+#sidebar													{  }
+	
+	#sidebar .box											{ background: none; }
+	
+	#sidebar .ad												{ margin-bottom: 10px;  }
+		#sidebar .ad img										{ -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+	
+	#sidebar .sidenav										{ padding-bottom: 10px; }
+		#sidebar .sidenav h3									{ margin-bottom: 0; }
+		#sidebar .sidenav ul									{ margin: 0; }
+			#sidebar .sidenav ul li							{ background: none; border-bottom-color: #ddd; margin: 0; }
+				#sidebar .sidenav ul li a						{ background: url(images/layout/rightarrow.png) no-repeat 210px 11px; border: 0; color: #333; padding: 6px 24px 6px 8px; }
+					#sidebar .sidenav ul li a:hover				{ background-color: #eee; }
+				#sidebar .sidenav ul li span					{ padding-bottom: 3px; padding-left: 25px; }
+
+
+	#sidebar .widget											{ background: #f5f5f5; border: 1px solid #ccc; margin-bottom: 10px;  -moz-border-radius: 5px 0 0 5px; -webkit-border-radius: 5px 0 0 5px; border-radius: 5px 0 0 5px; }
+		#sidebar .widget h3									{ background: #e5e5e5; border-bottom: 1px solid #ccc; color: #333; font-size: 1em; padding: 8px 10px; -moz-border-radius: 5px 0 0 0; -webkit-border-radius: 5px 0 0 0; border-radius: 5px 0 0 0; }
+			#sidebar .widget h3 a								{ border-bottom-width: 0 !important; color: #333; }
+			#sidebar .widget h3 a:hover						{ color: #1162CC; }
+		#sidebar .widget a 									{ border-bottom: 1px dotted #888; color: #444; }
+			#sidebar .widget a.more							{ border-bottom-width: 0; }
+			#sidebar .widget a:hover							{ border-bottom-color: #000; color: #000; }
+		#sidebar .widget .padder								{ padding: 0 15px 15px; }
+			#sidebar .widget img.left						{ margin-top: .5em; }
+		
+		/* Map widget */
+		#sidebar .widget .map								{ text-align: center; }
+			#sidebar .widget .map iframe						{ border: 2px solid #ccc; }
+			
+			
+#content													{  }
+	#content  h2												{ -moz-border-radius: 0 5px 0 0 !important; -webkit-border-radius: 0 5px 0 0 !important; border-radius: 0 5px 0 0 !important; }

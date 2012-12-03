@@ -1,0 +1,4 @@
+class Exam extends AppModel {
+}
+
+

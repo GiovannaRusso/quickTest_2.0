@@ -1,0 +1,3 @@
+class ExamQuestion extends AppModel {
+}
+
